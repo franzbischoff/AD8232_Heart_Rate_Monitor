@@ -198,3 +198,4 @@ pip-log.txt
 /Misc
 .history
 workspace.RData
+Software/Heart_Rate_Display_Processing/Heart_Rate_Display/*.csv
